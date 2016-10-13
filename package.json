@@ -1,0 +1,22 @@
+{
+  "name": "websource",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cashewcat/WebSource.git"
+  },
+  "author": "Cashew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cashewcat/WebSource/issues"
+  },
+  "homepage": "https://github.com/Cashewcat/WebSource#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
+}
